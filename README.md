@@ -32,7 +32,8 @@ When scraping job listings, you may face:
 
 For a step-by-step walkthrough, watch my full tutorial on **YouTube**:
 
-[![Watch the video]([https://youtu.be/-rEOEIIuCBY?si=YlEJehYvYBFyYUbX]))
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=rEOEIIuCBY)
+
 
 ---
 
