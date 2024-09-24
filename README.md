@@ -32,7 +32,7 @@ When scraping job listings, you may face:
 
 For a step-by-step walkthrough, watch my full tutorial on **YouTube**:
 
-[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![Watch the video]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=-rEOEIIuCBY))
 
 ---
 
@@ -40,7 +40,7 @@ For a step-by-step walkthrough, watch my full tutorial on **YouTube**:
 
 Want more details? Check out the full blog post for in-depth explanations and code examples:
 
-👉 [Read the blog here](https://yourbloglink.com)
+👉 [Read the blog here](https://rayobyte.com/community/scraping-project/web-scraping-indeed-with-python-extract-job-listings-and-salary-data/)
 
 ---
 
