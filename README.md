@@ -32,7 +32,7 @@ When scraping job listings, you may face:
 
 For a step-by-step walkthrough, watch my full tutorial on **YouTube**:
 
-[![Watch the video](https://img.icons8.com/color/48/000000/youtube-play.png)](https://www.youtube.com/watch?v=-rEOEIIuCBY)
+[![Watch the video](https://rayobyte.com/community/wp-content/uploads/2024/09/cover-1-624x624.webp)](https://www.youtube.com/watch?v=-rEOEIIuCBY)
 
 
 ---
